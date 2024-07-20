@@ -9,7 +9,6 @@ import (
 
 func main() {
 	var input string
-
 	fmt.Println("Enter a JSON object:")
 	fmt.Scan(&input)
 
